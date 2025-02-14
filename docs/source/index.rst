@@ -1,22 +1,6 @@
-Welcome to Lumache's documentation!
-===================================
+77Bet là một sân chơi nổi bật trong lĩnh vực chơi game trực tuyến tại Việt Nam, thu hút sự chú ý của đông đảo người chơi nhờ vào sự đa dạng trong các sản phẩm giải trí và cam kết mang đến những trải nghiệm chất lượng. 
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Được cấp phép hoạt động hợp pháp từ các tổ chức uy tín, 77Bet đảm bảo tính minh bạch và bảo mật tuyệt đối cho người chơi. 77Bet cung cấp một kho game phong phú, từ thể thao, casino online đến các trò chơi bắn cá sinh động. Hệ thống khuyến mãi hấp dẫn và ứng dụng di động tiện lợi là những điểm mạnh giúp 77Bet trở thành lựa chọn lý tưởng cho mọi người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Xem chi tiết tại: 
+Website: https://77bet.lol/gioi-thieu-77bet/ 
